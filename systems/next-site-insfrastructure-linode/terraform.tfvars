@@ -1,0 +1,12 @@
+ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHcC9vn59ewofFX/xtbUZzvAnYQOcXqWnGueeawgmSieqzGCU+8DZvH0mA5jV25U00VkFUI1S935UBNG31XWTZmnBXeT3nOMkY4NKe/RI4PzRETFmuib7hhzdNmmSfDpiUkJFb0Zlg9ummdMpVLeu+SA2qQ8YDV0ybAn872ZL/4s+O8UgQvSlQbglE0TKJM3Z6VZb6rZhHFGCq1rx2WNNa6e7ohfMxU5KI+md9Hk5BnanSIZZf/XsZoZ0JGssZtAc48cyVC4f3IcPdhWHO/oxOJOy+QEPnn6iiQ4mal768bI3Pa8w5rimOBUybbBg5RzyIkk7MSUQfFXYLhTJ3FWqD4KSgmBNxJaivkidDjcV9MOah+7Fkl+9VuqdDrUzH02J0p8L2dnSuU6r6ALo1yRZxVsadPr7Q1NS6IA8sJOOqsVgwILcEMXg06Dcuj/gvbHeQjhg0J2DW+X84uYEA/dtiaMyc/Zh8GzoJU7i1NOr3H4b162uPy9G6bLz+7LzHYdM= ejbest@lenovo-win"
+instance_type = "g6-standard-1"
+region = "us-southeast"
+image = "linode/ubuntu18.04"
+user = "root"
+instance_name = "nextresearch"
+token = "4f35729cdd96ab70199f4507be58de3dc4f764fc597167c98aa2eacb76ddd884"
+root_pass = "goodday@987654321x!"
+# NEXT_MASTER_IP = self.ip_address
+NEXT_VAULT_HOSTNAME = "nextresearch.io"
+NEXT_ZONE = "nextresearch.io"
+CLOUDFLARE_API_TOKEN = "niJpi2UhgQOERzVqXItay3nGBQoJoEjiCqVCEDJb"
